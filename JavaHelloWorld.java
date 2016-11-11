@@ -7,5 +7,6 @@ public class JavaHelloWorld
 	System.out.println("for auto build. hello :)");       
        System.out.println("ALP ALP ALPA LPA)");
 	System.out.println("KADIRRRRRRRRRRRRRRRRR)");
+	System.out.println("OZGURRRRRR");
     }
 }
